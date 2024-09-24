@@ -2,14 +2,14 @@
 
 ## Listas de Atividades
 
-- [x] **Atividade 1 - Caluladora Simples ()**
-- [x] **Atividade 2 - Jogo de Advinhação de Números ()**
-- [x] **Atividade 3 - Gerador de Senhas Aleatórias ()**
-- [x] **Atividade 4 - Conversor de Temperatura ()**
-- [x] **Atividade 5 - Simulador de Lançamento de Dados ()**
-- [x] **Atividade 6 - Calculadora IMC (Índice de Massa Corporal) ()**
-- [x] **Atividade 7 - Decisão de Almoço ()**
-- [ ] **Atividade 8 - Cronômetro Simples ()**
+- [x] **Atividade 1 - Caluladora Simples (Vitoria)**
+- [x] **Atividade 2 - Jogo de Advinhação de Números (Vitoria)**
+- [x] **Atividade 3 - Gerador de Senhas Aleatórias (Guilherme)**
+- [x] **Atividade 4 - Conversor de Temperatura (Lucas)**
+- [x] **Atividade 5 - Simulador de Lançamento de Dados (Guilherme)**
+- [x] **Atividade 6 - Calculadora IMC (Índice de Massa Corporal) (Lucas)**
+- [x] **Atividade 7 - Decisão de Almoço (Sandyla)**
+- [ ] **Atividade 8 - Cronômetro Simples (Sandyla)**
 
 ## Desenvolvimento
 
