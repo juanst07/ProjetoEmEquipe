@@ -23,4 +23,6 @@ Atividade 5 - Simular um lançamento de um dado de seis faces e exibir o resulta
 
 Atividade 6 - Criar uma calculadora de IMC para o usuário inserir o peso e altura, além de classificar sua categoria de saúde (baixo peso, peso, normal, sobrepeso e obesidade).
 
-Atividade 8 - Desenvonver um cronômetro onde o usuário define quantos segundos o cronômetro deverá rodar.
+Atividade 7 - Desenvolver uma opções de restaurante ou pratos para o usuário escolher , ou gera uma escolha aleatória de almoço se o usuário estiver indeciso
+
+Atividade 8 - Desenvolver um cronômetro onde o usuário define quantos segundos o cronômetro deverá rodar.
