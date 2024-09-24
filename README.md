@@ -11,10 +11,15 @@ Atividade 8 - Desenvonver um cronômetro onde o usuário define quantos segundos
 
 ## Etapas implementadas
 Atividade 1
+
 Atividade 3
+
 Atividade 4
+
 Atividade 5
+
 Atividade 6
+
 Atividade 8
 
 ## Backlog
