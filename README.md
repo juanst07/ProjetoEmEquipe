@@ -8,4 +8,5 @@
 - [x] **Atividade 4 - Conversor de Temperatura ()**
 - [x] **Atividade 5 - Simulador de Lançamento de Dados ()**
 - [x] **Atividade 6 - Calculadora IMC (Índice de Massa Corporal) ()**
-- [x] **Atividade 8 - Cronômetro Simples ()**
+- [x] **Atividade 7 - Decisão de Almoço ()**
+- [ ] **Atividade 8 - Cronômetro Simples ()**
