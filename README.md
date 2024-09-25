@@ -9,7 +9,7 @@
 - [x] **Atividade 5 - Simulador de Lançamento de Dados (Guilherme)**
 - [x] **Atividade 6 - Calculadora IMC (Índice de Massa Corporal) (Lucas)**
 - [x] **Atividade 7 - Decisão de Almoço (Sandyla)**
-- [ ] **Atividade 8 - Cronômetro Simples (Sandyla)**
+- [x] **Atividade 8 - Cronômetro Simples (Sandyla)**
 
 ## Desenvolvimento
 
