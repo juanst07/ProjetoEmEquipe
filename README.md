@@ -28,3 +28,8 @@ Atividade 6 - Criar uma calculadora de IMC para o usuário inserir o peso e altu
 Atividade 7 - Desenvolver uma opções de restaurante ou pratos para o usuário escolher , ou gera uma escolha aleatória de almoço se o usuário estiver indeciso.
 
 Atividade 8 - Desenvolver um cronômetro onde o usuário define quantos segundos o cronômetro deverá rodar.
+
+## Conclusão
+
+
+O trabalho em equipe é essencial para o sucesso profissional em um ambiente em constante mudança, pois promove um clima organizacional positivo e aumenta a produtividade. As empresas reconhecem que equipes coesas fortalecem o sentimento de pertencimento e reduzem a rotatividade. O projeto que desenvolvemos nos proporcionou uma valiosa oportunidade de colaboração, onde cada membro contribuiu com suas habilidades na criação de diversas aplicações. O uso do GitHub facilitou o gerenciamento de versões e a integração das contribuições, aprimorando nossas competências técnicas e promovendo uma comunicação eficaz. Essa experiência não apenas nos preparou para o mercado de trabalho, mas também destacou a importância do aprendizado coletivo e da construção conjunta de soluções, revelando que a força de uma equipe está na união e na troca de conhecimentos.
